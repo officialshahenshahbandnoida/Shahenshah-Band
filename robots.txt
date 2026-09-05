@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://officialshahenshahbandnoida.github.io/Shahenshah-Band/sitemap.xml
